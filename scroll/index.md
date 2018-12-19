@@ -1,1 +1,2 @@
 [Scrolling the main document is better for performance, accessibility, and usability](https://nolanlawson.com/2018/11/18/scrolling-the-main-document-is-better-for-performance-accessibility-and-usability/)
+[How to: Prevent Body From Scrolling](http://luxiyalu.com/how-to-prevent-body-from-scrolling/)
