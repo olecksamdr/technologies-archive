@@ -1,0 +1,1 @@
+[Redux state updates with Ramda - Arrays](https://mitchgavan.com/redux-state-updates-with-ramda-part-1/)
